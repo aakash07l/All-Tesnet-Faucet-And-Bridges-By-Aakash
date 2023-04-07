@@ -189,9 +189,7 @@ https://get.fusespark.io/
 https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
-
-
-#### Bridges
+### Bridge List
 
 ## Base
 
