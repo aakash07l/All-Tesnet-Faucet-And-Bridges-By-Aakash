@@ -249,7 +249,7 @@ https://neonfaucet.org/
 https://discord.etherspot.io (#faucet channel) - drops 10 NEON
 
 
-### Bridges List
+### Bridges
 
 ## Base
 
