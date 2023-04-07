@@ -22,6 +22,7 @@ And All Bridge Links
 - [Fuse](#fuse)
 - [Avalanche](#avalanche)
 
+
 ## Bridges
 
 - [Base Goreli](#base)
@@ -44,8 +45,6 @@ https://omnifaucet.com/
 ## Ethereum
 
 ### Goerli
-
-https://discord.etherspot.io (#faucet channel) - drops 0.1 GoerliETH
 
 https://faucet.quicknode.com/ethereum/goerli
 
@@ -88,8 +87,6 @@ https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and cu
 
 Mumbai
 
-https://discord.etherspot.io (#faucet channel) - drops 1 MATIC
-
 https://faucet.quicknode.com/polygon/mumbai
 
 https://mumbaifaucet.com/
@@ -108,8 +105,6 @@ https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and cur
 ## Fantom
 
 FantomTestnet
-
-https://discord.etherspot.io (#faucet channel) - drops 10 FTM
 
 https://faucet.fantom.network/
 
@@ -195,7 +190,8 @@ https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
 
-### Bridges
+
+#### Bridges
 
 ## Base
 
