@@ -30,16 +30,6 @@ And All Bridge Links
 ## Bridges
 
 - [Base Goreli](#base)
-- [Ethereum](#ethereum)
-- [BSC](#bsc)
-- [Polygon](#polygon)
-- [Fantom](#fantom)
-- [Aurora](#aurora)
-- [Cronos](#cronos)
-- [Solana](#solana)
-
-
-
 
 
 ## MultiFaucet
