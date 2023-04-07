@@ -1,5 +1,4 @@
-# Tesnet-Faucet-And-Bridge Links-By-Aakash
-All Faucets And Bridges List
+# All Tesnet-Faucets-And-Bridge List Links-By-Aakash
 
 All Testnet faucets List - Goerli, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
 And All Bridge Links
@@ -30,6 +29,10 @@ And All Bridge Links
 ## Bridges
 
 - [Base Goreli](#base)
+- [Layerzero Testnet](#layerzero)
+- [Layerzero Test to Mainnet](#layerzero2)
+- [Zetachain](#zetachain)
+- [Goreli Hop](#hop)
 
 
 ## MultiFaucet
@@ -245,3 +248,31 @@ https://neonfaucet.org/
 
 https://discord.etherspot.io (#faucet channel) - drops 10 NEON
 
+
+### Bridges List
+
+## Base
+
+Goreli to Base eth Bridge
+
+https://bridge.base.org/
+
+## layerzero
+Goreli To Avax bridge
+
+https://usdcdemo.layerzero.network/bridge
+
+## layerzero2
+
+Tesnet To Mainnet Bridge
+
+https://testnetbridge.com/
+
+## zetachain
+
+https://labs.zetachain.com/swap
+
+## hop
+Hop Exchange Bridge
+
+https://goerli.hop.exchange/
