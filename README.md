@@ -190,9 +190,9 @@ https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
 
-### Bridge List
+## Bridge List
 
-## Base
+### Base
 
 Goreli to Base eth Bridge
 
