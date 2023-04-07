@@ -1,4 +1,4 @@
-# All Tesnet-Faucets-And-Bridge List Links-By-Aakash
+# All Tesnet-Faucets-And-Bridge Links-By-Aakash
 
 All Testnet faucets List - Goerli, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
 And All Bridge Links
@@ -184,11 +184,12 @@ https://get.fusespark.io/
 
 ## Avalanche
 
-### Avalanche Fuji (C-Chain)
+Avalanche Fuji (C-Chain)
 
 https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
+
 ### Bridge List
 
 ## Base
