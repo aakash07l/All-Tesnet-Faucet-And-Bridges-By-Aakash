@@ -1,12 +1,11 @@
-# Tesnet-Faucet-And-Bridges-By-Aakash
-All Faucets And Bridges
+# Tesnet-Faucet-And-Bridge Links-By-Aakash
+All Faucets And Bridges List
 
 All Testnet faucets List - Goerli, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
 And All Bridge Links
 
 ## Networks
 
-- [Etherspot](#etherspot)
 - [MultiFaucet](#multifaucet)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
@@ -28,17 +27,20 @@ And All Bridge Links
 - [Energy Web](#energy-web)
 - [Neon](#neon)
 
-## Etherspot
+## Bridges
 
-### Etherspot testnet PoA
+- [Base Goreli](#base)
+- [Ethereum](#ethereum)
+- [BSC](#bsc)
+- [Polygon](#polygon)
+- [Fantom](#fantom)
+- [Aurora](#aurora)
+- [Cronos](#cronos)
+- [Solana](#solana)
 
-Etherspot is a multi-chain non-custodial Smart Wallet platform that allows you to access the best features (batched transactions, NFTs, ENS, P2P) of the Ethereum blockchain (and EVM compatible chains such as Polygon, Binance Smart Chain, xDai) quickly and with minimal effort and cost.
-Checkout [here](https://bit.ly/3oyavge)
 
-https://try.etherspot.dev/#TopUpAccount
 
-Faucet for #Goerli #Mumbai, #FantomTest, #NeonDevnet, #FuseSpark and #MoonbaseAlpha --> (#faucet channel)
-https://discord.etherspot.io
+
 
 ## MultiFaucet
 Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
