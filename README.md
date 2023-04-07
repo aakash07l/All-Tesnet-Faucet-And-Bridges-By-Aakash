@@ -18,13 +18,9 @@ And All Bridge Links
 - [Algo](#algo)
 - [Cardano](#cardano)
 - [Near](#near)
-- [Arbitrum](#arbitrum)
 - [Harmony](#harmony)
 - [Fuse](#fuse)
-- [Moonbeam](#moonbeam)
 - [Avalanche](#avalanche)
-- [Energy Web](#energy-web)
-- [Neon](#neon)
 
 ## Bridges
 
@@ -78,11 +74,6 @@ https://sepolia-faucet.pk910.de/
 
 https://www.infura.io/faucet
 
-### ETH 2.0
-
-#### Kiln Testnet (beta)
-
-https://kilnfaucet.com/
 
 ## BSC
 
@@ -95,7 +86,7 @@ https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and cu
 
 ## Polygon
 
-### Mumbai
+Mumbai
 
 https://discord.etherspot.io (#faucet channel) - drops 1 MATIC
 
@@ -114,15 +105,9 @@ https://faucet.dsolutions.mn/
 https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
 
 
-## TRON
-
-### Tron Shasta/Nile
-
-https://omnifaucet.com Airdrops 100 TRX indifintely
-
 ## Fantom
 
-### FantomTestnet
+FantomTestnet
 
 https://discord.etherspot.io (#faucet channel) - drops 10 FTM
 
@@ -132,19 +117,19 @@ https://faucets.chain.link/fantom-testnet
 
 ## Aurora
 
-### Aurora Testnet
+Aurora Testnet
 
 https://aurora.dev/faucet
 
 ## Cronos
 
-### Cronos Testnet
+Cronos Testnet
 
 https://cronos.org/faucet
 
 ## Solana
 
-### Solana DevNet/Testnet
+Solana DevNet/Testnet
 
 https://faucet.quicknode.com/solana/testnet
 
@@ -157,35 +142,33 @@ https://omnifaucet.com - Airdrops between 1 SOL indefinitely
 
 ## Tezos
 
-### Tezos DevNet/Testnet
+Tezos DevNet/Testnet
 
 https://teztnets.xyz/ithacanet-faucet
 
 ## Ripple
 
-### Ripple DevNet/Testnet
+Ripple DevNet/Testnet
 
 https://xrpl.org/xrp-testnet-faucet.html
 
 ## Algo
 
-### Algo DevNet/Testnet
+Algo DevNet/Testnet
 
 https://dispenser.testnet.aws.algodev.network/
 
-### Algo BetaNet
+Algo BetaNet
 
 https://bank.betanet.algodev.network/
 
 ## Cardano
 
-### Cardano DevNet/Testnet
+Cardano DevNet/Testnet
 
 https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
 
 ## Near
-
-### Near Testnet 
 
 https://wallet.testnet.near.org/
 
@@ -193,38 +176,16 @@ https://jelilat.github.io/near-faucet/
 
 ## Arbitrum
 
-
-### Arbitrum Goerli
-
 https://omnifaucet.com Drops between 0.1 - 0.002 Arb depending on demand and current supply
 
-### Arbitrum Rinkeby
-
-https://faucet.quicknode.com/arbitrum/rinkeby
-
-https://faucet.paradigm.xyz/
-
-https://fauceth.komputing.org/
-
 ## Harmony
-
-### Harmony TestNet
 
 https://faucet.pops.one/
 
 ## Fuse
-
-### Fuse SparkNet
-
-https://discord.etherspot.io (#faucet channel) - drops 20 SPARK
+Fuse Chain faucet
 
 https://get.fusespark.io/
-
-## Moonbeam
-
-### Moonbase Alpha
-
-https://discord.etherspot.io (#faucet channel) - drops 1 DEV
 
 ## Avalanche
 
@@ -233,21 +194,6 @@ https://discord.etherspot.io (#faucet channel) - drops 1 DEV
 https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
-
-## Energy Web
-
-### Volta Testnet
-
-https://volta-faucet.energyweb.org/
-
-## Neon
-
-### Neon Devnet
-
-https://neonfaucet.org/
-
-https://discord.etherspot.io (#faucet channel) - drops 10 NEON
-
 
 ### Bridges
 
