@@ -186,7 +186,7 @@ https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
 
-## **Bridge List**
+***Bridge List***
 
 ### Base
 
