@@ -50,11 +50,7 @@ https://faucet.quicknode.com/ethereum/goerli
 
 https://goerlifaucet.com/
 
-https://faucet.goerli.mudit.blog/
-
 https://faucet.matic.network/
-
-https://app.mycrypto.com/faucet
 
 https://faucet.softbinator.com/
 
@@ -67,7 +63,7 @@ https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand a
 
 https://fauceth.komputing.org/
 
-https://sepoliafaucet.net/
+https://sepoliafaucet.com/
 
 https://sepolia-faucet.pk910.de/
 
@@ -190,7 +186,7 @@ https://faucet.paradigm.xyz/
 
 https://faucet.avax.network/
 
-## Bridge List
+## **Bridge List**
 
 ### Base
 
